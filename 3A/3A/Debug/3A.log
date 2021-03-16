@@ -1,0 +1,3 @@
+﻿  Origine.c
+c:\users\valeria\source\repos\3a\3a\origine.c(17): warning C4047: '==': 'char *' differisce da 'int' nei livelli di riferimento indiretto
+  3A.vcxproj -> c:\Users\Valeria\source\repos\3A\Debug\3A.exe
